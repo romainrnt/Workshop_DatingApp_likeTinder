@@ -105,7 +105,7 @@ npm start
 
 Vous devriez voir la page de connexion s'afficher dans votre navigateur.
 
-#### Page d'inscription
+### Page d'inscription
 
 Créez un nouveau fichier nommé "SignUpPage.js" à l'intérieur du répertoire "components".
 Implémentez la page d'inscription dans le fichier "SignUpPage.js".
@@ -127,7 +127,7 @@ Testez la page d'inscription en exécutant la commande suivante :
 npm start
 ```
 
-#### Menu de swipe
+### Menu de swipe
 
 Créez un nouveau fichier nommé "SwipePage.js" dans le répertoire "components".
 Implémentez le menu déroulant dans le fichier "SwipePage.js".
