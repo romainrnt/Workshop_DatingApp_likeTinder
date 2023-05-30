@@ -105,6 +105,49 @@ npm start
 
 Vous devriez voir la page de connexion s'afficher dans votre navigateur.
 
+#### Page d'inscription
+
+Créez un nouveau fichier nommé "SignUpPage.js" à l'intérieur du répertoire "components".
+Implémentez la page d'inscription dans le fichier "SignUpPage.js".
+Importez le composant SignUpPage dans le fichier "App.js".
+
+```
+import SignUpPage from './components/SignUpPage';
+```
+
+Ajoutez le composant SignUpPage à l'élément Route dans le fichier "App.js" :
+
+```
+<Route path="/signup" element={<SignUpPage />} />
+```
+
+Testez la page d'inscription en exécutant la commande suivante :
+
+```
+npm start
+```
+
+#### Menu de swipe
+
+Créez un nouveau fichier nommé "SwipePage.js" dans le répertoire "components".
+Implémentez le menu déroulant dans le fichier "SwipePage.js".
+Importez le composant SwipePage dans le fichier "App.js" :
+
+```
+import SwipePage from './components/SwipePage' ;
+```
+
+Ajoutez le composant SwipePage à l'élément Route dans le fichier "App.js" :
+
+```
+<Route path="/swipe" element={<SwipePage />} />
+```
+
+Testez le menu déroulant en exécutant la commande suivante :
+```
+npm start
+```
+
 ### Connexion à Firebase 
 
 Rendez-vous sur la page Firebase (https://firebase.google.com/) et créez un compte si vous n'en avez pas déjà un.
