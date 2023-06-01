@@ -156,3 +156,9 @@ Sur la page principale du projet Firebase, cliquez sur "Authentication" dans le 
 Dans l'onglet "Sign-in Method", activez l'option "Email/Password".
 
 À ce stade, vous avez configuré les bases du projet et vous pouvez continuer à développer les fonctionnalités nécessaires pour l'appli :) 
+
+#### Documentation
+
+https://reactjs.org/docs/getting-started.html
+https://firebase.google.com/docs
+https://css-tricks.com/building-a-real-time-chat-app-with-react-and-firebase/
