@@ -1,4 +1,4 @@
-# Guide de démarrage pour le projet Workshop Dating App React / Firebase
+# Workshop Dating App React / Firebase
 ## Description et fonctionnalités
 
 Le projet consiste à créer une application similaire à Tinder ou Fruitz en utilisant React pour la partie front-end et Firebase pour la partie back-end. L'application comprendra des fonctionnalités telles qu'une page de connexion, un menu de swipe et des conversations.
